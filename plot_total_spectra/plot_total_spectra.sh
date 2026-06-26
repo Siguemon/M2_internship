@@ -1,0 +1,13 @@
+
+LOCAL=.
+PRGM=$LOCAL/plot_total_spectra.py
+
+INPUT_DIR=$LOCAL/../make_total_spectra/data/out
+PLOT_DIR=$LOCAL/plots
+
+INPUT_FILE=$1
+PLOT_FILE=$2
+
+echo $INPUT_DIR/$INPUT_FILE $PLOT_DIR/$PLOT_FILE
+
+python3 $PRGM $INPUT_DIR/$INPUT_FILE $PLOT_DIR/$PLOT_FILE
