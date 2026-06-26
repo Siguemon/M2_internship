@@ -1,0 +1,197 @@
+{
+    
+     "PCB":{
+    "Th232": 8750, "errorTh232":1780,
+    "K40": 5.55 , "errorK40":1.16,
+    "Th230-U238":9850, "errorTh230-U238":1100,
+    "U235":530, "errorU235":160,
+    "Pb210":8200, "errorPb210":1470,
+    "Po214-Ra226":4.31,  "errorPo214-Ra226":0.23
+   },
+    
+    "OVCWall": {
+      "Th232":5.28 , "errorTh232":2.29,
+      "K40": 43.63, "errorK40":31.78,
+      "Co60":19.89, "errorCo60":3.00,
+      "Po214-Ra226":8.68,  "errorPo214-Ra226":3.70
+    },
+
+  
+    "OVCBottom": {
+      "Th232": 8, "errorTh232":0,
+      "K40": 0, "errorK40":0,
+      "Th230-U238":0, "errorTh230-U238":0,
+      "Co57":0, "errorCo57":0,
+      "Co58":0, "errorCo58":0,
+      "Co60":19.0, "errorCo60":3,
+      "U235":0, "errorU235":0,
+      "Cs137":0, "errorCs137":0,
+      "Mn54":0, "errorMn54":0,
+      "Pb210":431, "errorPb210":0,
+      "Po214-Ra226":0,  "errorPo214-Ra226":0
+    },
+
+    "OVCFlange": {
+      "Th232": 6.62, "errorTh232":2.81,
+      "K40": 0, "errorK40":0,
+      "Th230-U238":1.97, "errorTh230-U238":0.42,
+      "Co57":0, "errorCo57":0,
+      "Co58":0, "errorCo58":0,
+      "Co60":11.12, "errorCo60":0.42,
+      "U235":0, "errorU235":0,
+      "Cs137":0.5, "errorCs137":0.27,
+      "Mn54":0, "errorMn54":0,
+      "Pb210":107, "errorPb210":40,
+      "Po214-Ra226":1.97,  "errorPo214-Ra226":0.42
+    },
+
+    "Mylar": {
+        "K40": 249.69, "errorK40":245.30,
+        "Pb210":862.61, "errorPb210":201.58,
+        "Po214-Ra226":116.54,  "errorPo214-Ra226":34.12
+    },
+
+
+    "CopperScreenWall": {
+        "Th232": 1.5, "errorTh232":1.1,
+        "K40": 7.8, "errorK40":6.0,
+        "Th230-U238":3.2, "errorTh230-U238":0,
+        "Co57":0.8, "errorCo57":0,
+        "Co58":2, "errorCo58":0,
+        "Co60":0.2, "errorCo60":0,
+        "U235":0, "errorU235":0,
+        "Cs137":0, "errorCs137":0,
+        "Mn54":0.4, "errorMn54":0,
+        "Pb210":0, "errorPb210":0,
+        "Po214-Ra226":3.2,  "errorPo214-Ra226":0,
+        "Ra226":3.2,  "errorRa226":0
+    },
+    "CopperScreenFlange": {
+        "Th232": 0.4, "errorTh232":0.4,
+        "K40": 0, "errorK40":0,
+        "Th230-U238":0.9, "errorTh230-U238":0,
+        "Co57":0.8, "errorCo57":0,
+        "Co58":2, "errorCo58":0,
+        "Co60":0.2, "errorCo60":0,
+        "U235":0, "errorU235":0,
+        "Cs137":0, "errorCs137":0,
+        "Mn54":0.4, "errorMn54":0,
+        "Pb210":162, "errorPb210":0,
+        "Po214-Ra226":0.9,  "errorPo214-Ra226":0,
+        "Ra226":0.9,  "errorRa226":0
+
+    },
+    "CopperScreenBottom":{
+      "Th232": 4.2, "errorTh232":0,
+      "K40": 37, "errorK40":0,
+      "Th230-U238":4.5, "errorTh230-U238":0,
+      "Co57":0.8, "errorCo57":0,
+      "Co58":2, "errorCo58":0,
+      "Co60":0.9, "errorCo60":0.6,
+      "U235":0, "errorU235":0,
+      "Cs137":2.2, "errorCs137":0,
+      "Mn54":0.4, "errorMn54":0,
+      "Pb210":117, "errorPb210":0,
+      "Po214-Ra226":4.5,  "errorPo214-Ra226":0
+    },
+    "GlobalCopper":{
+      "Th232": 4.2, "errorTh232":0,
+      "K40": 37, "errorK40":0,
+      "Th230-U238":4.5, "errorTh230-U238":0,
+      "Co57":0.8, "errorCo57":0,
+      "Co58":2, "errorCo58":0,
+      "Co60":0.9, "errorCo60":0.6,
+      "U235":0, "errorU235":0,
+      "Cs137":2.2, "errorCs137":0,
+      "Mn54":0.4, "errorMn54":0,
+      "Pb210":167, "errorPb210":0,
+      "Po214-Ra226":4.5,  "errorPo214-Ra226":0
+    },
+    
+   "PEOuter":{
+    "Th232": 2.79, "errorTh232":0.82,
+      "K40": 22.68, "errorK40":12.98,
+      "Po214-Ra226":2.47,  "errorPo214-Ra226":1.00
+   },
+   "CuInternalShielding":{
+    "Th232":2.76 , "errorTh232":0,
+    "Co57":0.8, "errorCo57":0,
+    "Co58":2, "errorCo58":0,
+    "Co60":0.2, "errorCo60":0,
+    "U235":0, "errorU235":0,
+    "Cs137":0.29, "errorCs137":0.26,
+    "Mn54":0.4, "errorMn54":0,
+    "Po214-Ra226":2.76,  "errorPo214-Ra226":0
+
+   },
+   "LeadExt":{
+    "Th232":0.58 , "errorTh232":0.72,
+    "K40": 14, "errorK40":6,
+    "Th230-U238":996, "errorTh230-U238":0,
+    "Co57":0, "errorCo57":0,
+    "Co58":0, "errorCo58":0,
+    "Co60":0, "errorCo60":0,
+    "U235":0, "errorU235":0,
+    "Cs137":0, "errorCs137":0,
+    "Mn54":0, "errorMn54":0,
+    "Pb210":335936, "errorPb210":4206,
+    "Po214-Ra226":7.02,  "errorPo214-Ra226":0
+
+   },
+    "LeadInt":{
+    "K40": 4.97, "errorK40":3.43,
+    "Pb210":6587.53, "errorPb210":700.50,
+    "Po214-Ra226":1.75,  "errorPo214-Ra226":0.70
+
+   },
+   
+ 
+    "KaptonPCB":{
+    "Th232":28.88, "errorTh232":13.91,
+    "K40": 127.36, "errorK40":54.26,
+    "Co60":5.21, "errorCo60":3.89,
+    "U235":1.43, "errorU235":1.09,   
+    "Pb210":128.45, "errorPb210":37.02,
+    "Po214-Ra226":30.53,  "errorPo214-Ra226":23.33
+
+   },
+
+   "Cables":{
+    "Th232":7.18, "errorTh232":2.04,
+    "K40": 352.79, "errorK40":33.43,
+    "Pb210":44.70, "errorPb210":7.73,
+    "Po214-Ra226":5.60,  "errorPo214-Ra226":0.95
+
+   },
+
+   "Screws_SS":{
+    "Th232":145.09, "errorTh232":68.39,
+    "K40": 349.47, "errorK40":310.41,
+    "Pb210":4487.50, "errorPb210":1910.75,
+    "Po214-Ra226":250.54,  "errorPo214-Ra226":68.21,
+    "Co60":53.76, "errorCo60":18.10,
+    "Mn54":75.44, "errorMn54":27.74
+
+   },
+
+      
+   "Connectors":{
+    "Th232":666.09, "errorTh232":26.61,
+    "K40": 861.79 , "errorK40":95.69,
+    "Th230-U238":1837.07, "errorTh230-U238":124.02,
+
+    "U235":56.58, "errorU235":3.74,
+    "Pb210":6892.45, "errorPb210":346.33,
+    "Po214-Ra226":1201.43,  "errorPo214-Ra226":79.33
+   },
+
+   "PEInternal":{
+    "Th232": 2.11, "errorTh232":0.83,
+      "K40": 26.28, "errorK40":11.47,
+      "Pb210":95.87, "errorPb210":9.94,
+      "Po214-Ra226":2.99,  "errorPo214-Ra226":1.24
+   } 
+
+
+
+}
